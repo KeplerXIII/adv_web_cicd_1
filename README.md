@@ -1,3 +1,6 @@
+# CI
+![CI](https://github.com/KeplerXIII/adv_web_cicd_1/actions/workflows/web.yml/badge.svg)
+
 # Webpack5
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
